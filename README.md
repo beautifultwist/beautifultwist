@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beautifultwist
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on data analyst projects.
+
 
 
 <!---
